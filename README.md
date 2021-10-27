@@ -24,7 +24,7 @@ npm install @react-navigation/native
 ### Google Firebase
 To install Firebase, use the command:
 ``` 
-npm install @react-navigation/native 
+npm install firebase
 ```
 ## Running The Application
 To run the project, use the command ``` expo start ```.
