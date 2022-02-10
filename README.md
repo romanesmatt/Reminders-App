@@ -6,8 +6,8 @@ This is a hybrid mobile application built using React Native/Expo, Google Fireba
 Before running the project, you must ensure that you are running the latest version of Node JS (16.13.0 LTS). To install Node JS in your system, refer to the following link: <br>
 [Download Node JS](https://nodejs.org/en/download/)
 
-### React Native & Expo
-To install React Native and Expo, add the following into your system's command line:
+### Expo
+To install Expo, add the following into your system's command line:
 ```
 npm install -g expo-cli
 ```
